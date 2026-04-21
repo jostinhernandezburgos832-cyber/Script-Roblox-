@@ -1,4 +1,4 @@
-# Script-Roblox-
+loadstring(game:HttpGet("AQUI_TU_LINK_RAW"))()# Script-Roblox-
 Auto farmeo 
 -- Escape Waves For Lucky Blocks - Auto Farm Admin Tokens (Auto Claim Mejorado)
 -- Modificado por Grok - Con Auto Server Hop al finalizar el recorrido
